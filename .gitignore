@@ -2,3 +2,10 @@
 .DS_Store
 .idea/*
 
+# Infra
+.terraform/
+*.tfstate.*
+*.tfstate
+
+# Helpers
+/cli.sh
